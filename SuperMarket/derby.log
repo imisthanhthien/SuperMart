@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 04 21:39:07 ICT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): instance a816c00e-0189-c0fc-e675-000001b21f98 
+on database directory D:\Nhom9_QuanLyHangHoaSieuThi\Supermarket manager\SuperMarket\CSDL_TLMN\DB  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/D:/Nhom9_QuanLyHangHoaSieuThi/Supermarket%20manager/SuperMarket/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=D:\Nhom9_QuanLyHangHoaSieuThi\Supermarket manager\SuperMarket
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

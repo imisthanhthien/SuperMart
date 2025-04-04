@@ -22,3 +22,5 @@ UI: Java Swing
 Database: MySQL
 
 ORM (if used): JDBC / Hibernate
+
+📬 Contact Email: imisthanhthien@gmail.com
